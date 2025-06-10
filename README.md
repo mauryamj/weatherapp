@@ -1,16 +1,110 @@
-# myapp
+🌦️ Simple Weather App
 
-A new Flutter project.
+A basic Flutter weather app that fetches and displays the current weather conditions for a single predefined city. Ideal as a starter project for understanding API integration and Flutter UI development.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+📌 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+☁️ Shows current weather for [Your City Here]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌡️ Displays temperature, weather condition, and more
+
+🔗 Integrates with a public weather API (e.g., OpenWeatherMap)
+
+📱 Clean and responsive UI built with Flutter
+
+
+
+---
+
+⚠️ Limitations
+
+City is hardcoded and cannot be changed dynamically (yet)
+
+No GPS or search functionality
+
+Basic UI without animations or themes
+
+
+
+---
+
+📷 Screenshot
+
+<!-- Replace with your actual image path --><p align="center">
+  <img src="assets/screenshot.png" width="300" alt="App Screenshot">
+</p>
+---
+
+🔧 Technologies Used
+
+Flutter
+
+Dart
+
+REST API (e.g., OpenWeatherMap)
+
+HTTP Package
+
+
+
+---
+
+🚀 Getting Started
+
+1. Clone the repository
+
+git clone https://github.com/yourusername/weather-app.git
+
+
+2. Install dependencies
+
+flutter pub get
+
+
+3. Run the app
+
+flutter run
+
+
+4. Replace the city name and API key in weather_service.dart (or wherever applicable).
+
+
+
+
+---
+
+🎯 Future Plans
+
+🔍 Add search functionality to change city
+
+📍 Add GPS-based location detection
+
+🌙 Add themes (light/dark)
+
+📊 Show hourly/weekly forecasts
+
+
+
+---
+
+🧑‍💻 Author
+
+[Your Name]
+GitHub Profile
+LinkedIn (optional)
+
+
+---
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+
+---
+
+Let me know if you want this customized for GitHub Pages, Firebase hosting, or to highlight more technical details (like state management, architecture, etc.).
+
