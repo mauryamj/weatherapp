@@ -56,7 +56,7 @@ HTTP Package
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/mauryamj/weatherapp.git
 
 
 2. Install dependencies
@@ -92,9 +92,7 @@ flutter run
 
 🧑‍💻 Author
 
-[Your Name]
-GitHub Profile
-LinkedIn (optional)
+[Abhishek Maurya]
 
 
 ---
@@ -102,9 +100,3 @@ LinkedIn (optional)
 📄 License
 
 This project is open source and available under the MIT License.
-
-
----
-
-Let me know if you want this customized for GitHub Pages, Firebase hosting, or to highlight more technical details (like state management, architecture, etc.).
-
