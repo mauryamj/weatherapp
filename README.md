@@ -34,7 +34,7 @@ Basic UI without animations or themes
 📷 Screenshot
 
 <!-- Replace with your actual image path --><p align="center">
-  <img src="assets/screenshot.png" width="300" alt="App Screenshot">
+  <img src="assets/Screenshot_2025-06-10-12-54-19-76_06d0f9554a0a05ce054ef8d232e87828.jpg" width="300" alt="App Screenshot">
 </p>
 ---
 
