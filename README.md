@@ -1,32 +1,19 @@
 🌦️ Simple Weather App
 
-A basic Flutter weather app that fetches and displays the current weather conditions for a single predefined city. Ideal as a starter project for understanding API integration and Flutter UI development.
+A basic Flutter weather app that fetches and displays the current weather conditions for a single predefined city.Understanding API integration and Flutter UI development.
 
 
 ---
 
 📌 Features
 
-☁️ Shows current weather for [Your City Here]
+☁️ Shows current weather for a city.
 
 🌡️ Displays temperature, weather condition, and more
 
-🔗 Integrates with a public weather API (e.g., OpenWeatherMap)
+🔗 Integrates with a public weather API (OpenWeatherMap)
 
 📱 Clean and responsive UI built with Flutter
-
-
-
----
-
-⚠️ Limitations
-
-City is hardcoded and cannot be changed dynamically (yet)
-
-No GPS or search functionality
-
-Basic UI without animations or themes
-
 
 
 ---
