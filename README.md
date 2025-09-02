@@ -19,10 +19,10 @@ A basic Flutter weather app that fetches and displays the current weather condit
 ---
 
 📷 Screenshot
-
-<!-- Replace with your actual image path --><p align="center">
   <img src="assets/Screenshot_2025-06-10-12-54-19-76_06d0f9554a0a05ce054ef8d232e87828.jpg" width="300" alt="App Screenshot">
 </p>
+
+
 ---
 
 🔧 Technologies Used
@@ -31,32 +31,9 @@ Flutter
 
 Dart
 
-REST API (e.g., OpenWeatherMap)
+REST API (OpenWeatherMap)
 
 HTTP Package
-
-
-
----
-
-🚀 Getting Started
-
-1. Clone the repository
-
-git clone https://github.com/mauryamj/weatherapp.git
-
-
-2. Install dependencies
-
-flutter pub get
-
-
-3. Run the app
-
-flutter run
-
-
-4. Replace the city name and API key in weather_service.dart (or wherever applicable).
 
 
 
